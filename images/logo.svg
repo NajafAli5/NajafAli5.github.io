@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 710 274" role="img" aria-label="Jokhio Interactive">
+  <rect width="710" height="274" fill="#000"/>
+  <ellipse cx="350" cy="134" rx="316" ry="103" fill="none" stroke="#8a8a8a" stroke-width="3"/>
+  <text x="350" y="158" text-anchor="middle" font-family="'Times New Roman', Times, Georgia, serif" font-size="70">
+    <tspan fill="#a9d8e3">Jokhio</tspan><tspan fill="#ffffff"> Interactive</tspan>
+  </text>
+</svg>
