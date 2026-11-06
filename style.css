@@ -95,3 +95,5 @@ footer.site .wrap { display: flex; flex-wrap: wrap; justify-content: space-betwe
   .contact-box dl { grid-template-columns: 1fr; }
   .hero { padding-top: 40px; }
 }
+
+.btn.soon{opacity:.55;cursor:default;pointer-events:none}
